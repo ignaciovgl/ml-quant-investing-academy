@@ -40,7 +40,7 @@ The lessons are built as interactive Jupyter Notebooks and were originally execu
 
 3. Install the required dependencies (if running locally):
 
-```Bash
+```bash
 pip install pandas numpy scikit-learn matplotlib pytorch
 ```
 
