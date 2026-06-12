@@ -39,10 +39,10 @@ The lessons are built as interactive Jupyter Notebooks and were originally execu
 2. Open the notebooks locally using Jupyter, or upload them directly to Google Colab.
 
 3. Install the required dependencies (if running locally):
-
-```bash
-pip install pandas numpy scikit-learn matplotlib pytorch
-```
+   
+   ```bash
+   pip install pandas numpy scikit-learn matplotlib pytorch
+   ```
 
 ## 🧠 Why I Built This
 Teaching is the ultimate test of understanding. I designed this academy to consolidate my own knowledge in quantitative finance and machine learning, while empowering my peers to explore systematic trading. Translating complex mathematical concepts—like stochastic processes and optimization algorithms—into digestible, deployable Python code has significantly sharpened my technical communication skills.
