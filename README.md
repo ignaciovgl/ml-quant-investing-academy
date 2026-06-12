@@ -35,4 +35,23 @@ The lessons are built as interactive Jupyter Notebooks and were originally execu
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/yourusername/ml-quant-investing-academy.git](https://github.com/yourusername/ml-quant-investing-academy.git)
+   git clone [https://github.com/ignaciovgl/ml-quant-investing-academy.git](https://github.com/ignaciovgl/ml-quant-investing-academy.git)
+2. Open the notebooks locally using Jupyter, or upload them directly to Google Colab.
+
+3. Install the required dependencies (if running locally):
+
+```Bash
+pip install pandas numpy scikit-learn matplotlib pytorch
+```
+
+## 🧠 Why I Built This
+Teaching is the ultimate test of understanding. I designed this academy to consolidate my own knowledge in quantitative finance and machine learning, while empowering my peers to explore systematic trading. Translating complex mathematical concepts—like stochastic processes and optimization algorithms—into digestible, deployable Python code has significantly sharpened my technical communication skills.
+
+## 👨‍💻 About the Author
+Ignacio Vigil Cardenal BSc Mathematics and Statistics @ University of Warwick
+
+I am passionate about statistical arbitrage, algorithmic trading, and the intersection of AI and finance. Feel free to connect with me to discuss quantitative strategies, machine learning architectures, or potential collaborations!
+
+LinkedIn: Ignacio Vigil Cardenal
+
+Portfolio: View my other Quant & AI projects
